@@ -2,7 +2,7 @@ let contador = 0;
 
 let botonSumar = document.getElementById("sumar")
 let botonReiniciar = document.getElementById("reiniciar")
-let Resultado = document.getElementById("contador")
+let Resultado = document.getElementById("Contador");
 
 botonSumar.addEventListener("click", function() {
     contador++;
