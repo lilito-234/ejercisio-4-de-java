@@ -1,0 +1,32 @@
+body {
+    background-color: antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.contenedor {
+    margin-top: 80px;
+}
+
+h2 {
+    font-size: 50px;
+    color: black;
+}
+
+button {
+    padding: 12px 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#sumar {
+    background-color: beige;
+    color: brown;
+}
+
+#reiniciar {
+    background-color: black;
+    color: blanchedalmond;
+}
